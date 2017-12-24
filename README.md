@@ -8,7 +8,7 @@ You will need:
 
 ### Setting up
 1) In the file `/config/config.json` replace the bot token and root id (_which is your user id_) with your own.  
-2) Change the `roles:[...]` array to be roles users are allowed to obtain via !roles (NOTE: IN LOWERCASE).
+2) Change the `"roles":[...]` array to be roles users are allowed to obtain via !roles (NOTE: IN LOWERCASE).
 3) Change "channels" **VALUES** to match that of your server.
 4) In the root folder run:  
 ```
