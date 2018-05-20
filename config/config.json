@@ -1,30 +1,18 @@
 {
-    "root": "<removed>",
-    "token": "<removed>",
+    "root": "241740028353576961",
+    "token": "fVoPkXYo7espPFk-GWA9ZC22m7eF_7pD",
     "prefix": "!",
     "roles": [
-        "the ebon hawk",
-        "the bastion",
-        "begeren colony",
-        "the harbinger",
-        "the shadowlands",
-        "jung ma",
-        "prophecy of the five",
-        "jedi covenant",
-        "t3-m4",
-        "darth nihilus",
-        "tomb of freedon nadd",
-        "jar'kai sword",
-        "the progenitor",
-        "vanjervalis chain",
-        "battle meditation",
-        "mantle of the force",
-        "the red eclipse"
+      "acolyte/guardian",
+        "honor guard",
+        "squire",
+        "crusader",
+        "knight commander"
     ],
     "channels": {
     	"bot_logs": "bot-logs",
-    	"member_req": "member-req",
-    	"welcome_lounge": "welcome-lounge",
-    	"rules_lounge": "rules-lounge"
+    	"member_req": "ooc-chat"
+        "welcome_lounge": "occ-chat",
+    	"rules_lounge": "rules-of-the-guild"
     }
 }
